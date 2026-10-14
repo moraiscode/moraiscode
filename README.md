@@ -2,7 +2,7 @@
 
 <img src="assets/pixel-art-face.png" width="150" alt="Felipe Morais" />
 
-# 👋 Felipe Morais
+# Felipe Morais
 
 **Full Stack Developer · Serviço Público (CFN/CRP1/EBC)**
 
