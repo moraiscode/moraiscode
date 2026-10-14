@@ -48,8 +48,8 @@ Apaixonado por tecnologia, **serviço público** e por gerar impacto real por me
 
 <div align="center">
 
-> ### 💭 _"A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original."_
->
-> — **Albert Einstein**
+### _"A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original."_
+
+**— Albert Einstein**
 
 </div>
