@@ -8,7 +8,7 @@
 
 [![Site](https://img.shields.io/badge/moraiscode.com-3380ff?style=flat-square&logo=googlechrome&logoColor=white)](https://moraiscode.com)
 [![LinkedIn](https://img.shields.io/badge/-moraiscode-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D&logoColor=white)](https://www.linkedin.com/in/moraiscode/)
-[![Instagram](https://img.shields.io/badge/-@moraiscode-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/moraiscode)
+[![Instagram](https://img.shields.io/badge/-@moraiscode-833AB4?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/moraiscode)
 [![Gmail](https://img.shields.io/badge/-contato.felipeamorim@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:contato.felipeamorim@gmail.com)
 
 📍 Brasília - DF, Brasil · 🏢 BRAZCODE
