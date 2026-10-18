@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/pixel-art-face.png" width="150" alt="Felipe Morais" />
+# <img src="assets/pixel-art-face.png" width="150" alt="Felipe Morais" />
 
 # Felipe Morais
 
