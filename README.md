@@ -1,15 +1,18 @@
 <div align="center">
 
-<!-- <img src="assets/pixel-art-face.png" width="150" alt="Felipe Morais" /> -->
+<img src="assets/banner_github_moraiscode.webp" alt="Felipe Morais · Software Engineer & Full Stack Developer" width="100%" />
+
+<br/>
+<br/>
 
 # Felipe Morais
 
-**Full Stack Developer · Serviço Público (CFN/CRP1/EBC)**
+**Software Engineer & Full Stack Developer · Serviço Público (CFN/CRP1/EBC)**
 
-[![Site](https://img.shields.io/badge/moraiscode.com-3380ff?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAKe0lEQVR42o2Xe3Bd1XXGf%2Buccx%2B69%2Bp1JVkP6%2BEHtmxjS4aRjW1cYjuAgQQTWhwyBTJNGNrEdCiZJJ00hmbSTmY64yEPAm0zU9JpQ2hCgNSEGJcANtQG7AQElm0QsmXJesvSle%2Fz3HvO2Xv3D1lFdpzHnjmzz2vW9%2B29vrX2WvD7hwBhEWhvpxzIAgHgAf6F2Zv3PHfN%2FeOJiBIRAywFHMCeD%2BD8PnARjG2JFyhT29vrPPbwjqZI29ZG2y5rttFhApUmXmnRs3eEssQoaBsvW8bSTyxBpavtoVcPseeVCdf3zV%2F6xpy%2BHMjvImADyhjaAmVuq1sUad25KXbnxkgFXWtdaq8oIPUbCNLvURrvY0NIUd0SRwWGIGimfnMLo8dGzcNP%2B1IoGQt0teM4u7TWCa31vwGpC7trnMtsuYigjKHpqs7qv22IhXbFS4YHb4mpvvdce7z3LFJm4469Cuo4xRFDRVNAQRUopgyJ1hoKEy6j46fkQ7Js7ySSTpU%2F%2Bs5YAQ0nIpHI06VSaWaOgH2Z1Zvrr6%2Bu7O8vPrCxq%2BIrz%2F%2Fz2mJrpk5GR3L25rtLVC5bRbjmagqnfkM4lKV29RYkVkduJEd2KIsdgYqWtdQ3b%2BCeG3M0%2BClT49frQwMZrxQt69SuOwpYgOZSQQAJIDw%2BGvyNgYfXLLKC7VvLIslNzVbDslMoFSdctRk%2F8x7xJX8C5PBm3sGJdVDRdhWVDSXC4TwGgWiS4UwFO7%2Fayyv9Kcu2DZaynvZ9PweoOQIy3%2Be2bf%2BrMfo2rSV6%2B6fKq%2F5%2BZ6sZftmV5TeMU9VWzeSJczStbSTacDOFqdewmERMBN8oLGMgUIQrOiDayLlj%2F01pCpwljSDljHR%2FaO7%2BVn5qNGWCRCJ8fS7nvQ%2BI9f%2BqswWlVP1ff6Gt4cATzZX3deaZOT4uJp6kvn0REKb5uj9H2TbFqTcJ1VyHcZoxygNdROsc4ZqrIVIL%2FiDRls8wfLKBmmqXwV%2FalD5cIs%2F%2F9K66xYtrGnM5z7UsMfNdYFkixhjuuK6hduXtnVrVts5Y0VpFw5pyGlevx0ksQqlulAooq%2BvCK%2FQRjqwm7NRigjRK%2B9iWhRNuwHGq0PRT2bKK6ZNHiNfNgC7w%2BAsz5u3jU77vB9eHQuEDSqmpj6LAzBIZPVGQDK3ihRdQHBqltSXNK4%2BNYdthxM%2BwYl2KwbemqOk4jZMsUla7Hl%2BPYpuF2FYYP%2F0mOt5OKNpA5cJzGHsz%2Fa%2BepioxZPa9lJJcnnAkZO8red40IJeGoSFqk5v2jKOnOXIiz1MHY2wNDVLTNsnQmUZ2H8ozdfYwX7mriYWrjtGXtqlrLZFc6mFKFjqYwnghSn4rhTO%2FJtq0inx%2FvcmHLEnExtV03ttT9B7aLfJNfTkCRJwQkp%2BgsmqK%2FqEYe%2FaN0b0yS3wsy9igy9HB2cw78H34xz%2BrIpY5j9XZjxpOoE2IUK3CscYhM8lgdxmNq47y42N13NLSiPEmNZhHLOubek74zkUpyKD9wBBPOLx5OsbIwAK%2BcE0DU%2BkAM97M4oSms8sBA3mlePK1PGH7PPdvvYm9hyYonu3jzi0V9EwUODyQ59qWOPtfCFOKp4jGahARgKTWTIvMOv3SHdBuYFBpOHhyhpF8kgMP7oCIgG3PkvQDsBywHb76i8Mc6xnmV2Mb6M29S%2FZ0H24xwUA6Tlor1i1J8%2BiLPvu%2BIcz0aFwPAyjLwsylgN8i4ADlNUJ9k837ShPYHlzZgMSbwArA85DiFCbw2LP7JhhW7PqHH%2FGJK1qI376Nrz%2F3Gpvr6vn3HVfx7OBbxCJZMgWFg8aaNS%2BXP4xmo6DM1T5jZ4Tp%2FtksYQcGTQQr1gZOBIIclFzEDqGyLmaBzbf%2F6masMgivqmLHtmW43dP4TLC6axLr54Lvhkm7HkYkA6gLWLNhN3ejjCHs2FMv9I%2F5TxzQ4o7XIiGFRMPYOovMvI2YDFI4g9S2I03rsePVOEoTbY8SbiuDXBEW2IS6qrB0kkjfNizfMSPHF8o3Xh0PMpqbd8JZM%2B8smCOgAPu2rnUPKK2fKiqxjS%2BBtSCGXl2L7wnKzaOm30dVrCSI1FJyc5iKZZSI4yuFxkEbBx1YUFOGXNuITwhjBGMcSsrguu7YM7NYF2l%2FvjsC4PGykLNLIPAEJ1EZQwUaxGAAy4ljCZQ7wsGffIs9P%2FgZz%2Bx%2FgwDQSgOCxqCNQdyAguebRMQR11NBNBZbk8vlei%2Fg6t8SoSWCQLBzzUIiIeF%2FPkhx%2F9qVgCAGtICIoqAMew52k8pkGRydYkN5JdvaW%2FANGBEsBMtoBjJ5nnyvl7%2FbspTvHR40GcW0gDHzFm7Nm1XIcT6vjLnh9YFJ%2FfrAOWvz0ib%2BYmM7o3mXaTtKVsrQdjm7b95IW12SaskTdjRfvLaDdYsbGXU9claYCS9A2RYPbb8ax7blmZ4RM5rO27lc7hEDtRckL%2FMJiCVivCC4Y3NL48p7rurQyWiVpbwifXnN6%2BVLGS1fwfOpJgodN5FKuRD4fO3RZ%2Bk%2BeRZRHocKNm%2BfT0Kyg9PLunjqTJbzaRcDdNS18OC61VZFJHIPUC1cJg9YlhAonfnc9g69Y80y3v3BFBIxNHYu4dbFrXzac9jfmeOzu3ZQ99Z%2FEfqRw%2BCJMXKpAhULy1m5eAWhZIh7P76Rt5IOT56fJNxSgSXCqoYkX%2Fr0evbvHi9mRkpKRDDGXByGczzyIVsOT0xzZGQSFbJoXBTnigafXivLlTcup6oqxItT0wwVSnz3pk10LKjigBKq1yyn%2Fprl5Nqq6LxyEdtu%2FRixhXEyxRJPnThFnykRCNasoC6ufmf1NyuOu1fOsOKBFUtVc3ONdbhnmDWxiJwvjvK9l7rZft01fNB3hk9%2B5msktGZbvIbBXJ69p%2FOsaF%2FDuWKagz0naa6splIC3vnP%2FQxmXfPi3duN98YIPzx%2Bykn73vcFSV0QopGPCiJRyphv33%2FFsvvuW78iUdVSzd6%2BYf7pV0cJOQ4WhiBQGGNIxKL87PO3siQZJazgy%2FuO8Oy7H%2BIgsxYFlDZUVSR44vYtJC2hr2eSLx49OjCUz33MEjmrjbGYDayL8oBKRCLfseG%2BAONtaWqMPXbjplBsQVQsx8EYQBuwLeo2N0JVCP%2FIONmRPL5tYxvBiEFpTUiEwVxR3%2FrDX7jpYhEMQTQc3jB9SR6Qy5Tl5UASKCXLyu78VHvbd5%2B49wYVrKy0bTGz7ZIIriiMGAgcIiLYlgYNxhasrDYnX%2BmXW%2F5jX2kwlV4HTF%2FAGpsDvlQD84cnkLZEcgXf7x04n0n3DM9svWP5EqUbHdtEBSti88hPunnuwAcM%2BQkWNZeTSBiCKDgZrY681G%2Fu%2BunL506dm%2FlTgSMCWZntK83lms%2Ff9c4REd8Ys91C9u%2FoWM6P7%2F24jkWjxrQnbKKCaD1r0xb8AdeEzvn6uXfP2F9%2F7n%2FpTc1kBCrNRwvVfyyBi75VR6PNM8XiJmDB1kULH405IR7q6uDqz3VgVYTQtiL18hiP732HIxOTnPf8A78eHf%2BXsnBYuZ73S6D0h9rvPzjko5LhS0B5e7ziy9HG8gpji1FGG2ZK1tB05pmM9t8G3rBEXtfG%2FDGm%2BT%2BbY%2BzauKOjwQAAAABJRU5ErkJggg%3D%3D)](https://moraiscode.com)
-[![LinkedIn](https://img.shields.io/badge/-moraiscode-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D&logoColor=white)](https://www.linkedin.com/in/moraiscode/)
-[![Instagram](https://img.shields.io/badge/-@moraiscode-833AB4?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/moraiscode)
-[![Gmail](https://img.shields.io/badge/-contato.felipeamorim@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:contato.felipeamorim@gmail.com)
+[![Site](https://img.shields.io/badge/moraiscode.com-16a34a?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAKe0lEQVR42o2Xe3Bd1XXGf%2Buccx%2B69%2Bp1JVkP6%2BEHtmxjS4aRjW1cYjuAgQQTWhwyBTJNGNrEdCiZJJ00hmbSTmY64yEPAm0zU9JpQ2hCgNSEGJcANtQG7AQElm0QsmXJesvSle%2Fz3HvO2Xv3D1lFdpzHnjmzz2vW9%2B29vrX2WvD7hwBhEWhvpxzIAgHgAf6F2Zv3PHfN%2FeOJiBIRAywFHMCeD%2BD8PnARjG2JFyhT29vrPPbwjqZI29ZG2y5rttFhApUmXmnRs3eEssQoaBsvW8bSTyxBpavtoVcPseeVCdf3zV%2F6xpy%2BHMjvImADyhjaAmVuq1sUad25KXbnxkgFXWtdaq8oIPUbCNLvURrvY0NIUd0SRwWGIGimfnMLo8dGzcNP%2B1IoGQt0teM4u7TWCa31vwGpC7trnMtsuYigjKHpqs7qv22IhXbFS4YHb4mpvvdce7z3LFJm4469Cuo4xRFDRVNAQRUopgyJ1hoKEy6j46fkQ7Js7ySSTpU%2F%2Bs5YAQ0nIpHI06VSaWaOgH2Z1Zvrr6%2Bu7O8vPrCxq%2BIrz%2F%2Fz2mJrpk5GR3L25rtLVC5bRbjmagqnfkM4lKV29RYkVkduJEd2KIsdgYqWtdQ3b%2BCeG3M0%2BClT49frQwMZrxQt69SuOwpYgOZSQQAJIDw%2BGvyNgYfXLLKC7VvLIslNzVbDslMoFSdctRk%2F8x7xJX8C5PBm3sGJdVDRdhWVDSXC4TwGgWiS4UwFO7%2Fayyv9Kcu2DZaynvZ9PweoOQIy3%2Be2bf%2BrMfo2rSV6%2B6fKq%2F5%2BZ6sZftmV5TeMU9VWzeSJczStbSTacDOFqdewmERMBN8oLGMgUIQrOiDayLlj%2F01pCpwljSDljHR%2FaO7%2BVn5qNGWCRCJ8fS7nvQ%2BI9f%2BqswWlVP1ff6Gt4cATzZX3deaZOT4uJp6kvn0REKb5uj9H2TbFqTcJ1VyHcZoxygNdROsc4ZqrIVIL%2FiDRls8wfLKBmmqXwV%2FalD5cIs%2F%2F9K66xYtrGnM5z7UsMfNdYFkixhjuuK6hduXtnVrVts5Y0VpFw5pyGlevx0ksQqlulAooq%2BvCK%2FQRjqwm7NRigjRK%2B9iWhRNuwHGq0PRT2bKK6ZNHiNfNgC7w%2BAsz5u3jU77vB9eHQuEDSqmpj6LAzBIZPVGQDK3ihRdQHBqltSXNK4%2BNYdthxM%2BwYl2KwbemqOk4jZMsUla7Hl%2BPYpuF2FYYP%2F0mOt5OKNpA5cJzGHsz%2Fa%2BepioxZPa9lJJcnnAkZO8red40IJeGoSFqk5v2jKOnOXIiz1MHY2wNDVLTNsnQmUZ2H8ozdfYwX7mriYWrjtGXtqlrLZFc6mFKFjqYwnghSn4rhTO%2FJtq0inx%2FvcmHLEnExtV03ttT9B7aLfJNfTkCRJwQkp%2BgsmqK%2FqEYe%2FaN0b0yS3wsy9igy9HB2cw78H34xz%2BrIpY5j9XZjxpOoE2IUK3CscYhM8lgdx0s4wzQ8%2B0fT1Kq%2Fa1f2H7%2B2v105151p2iWdfL69e1o6h4z6Yg00hZ3z8b6e6k4gI7%2FRQv2s5i9v2tq105y5K4%2BhT4Vn%2Fp0zRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkbG38d%2FAf6Zg36qW%2F4nAAAAAElFTkSuQmCC&logoColor=white)](https://moraiscode.com)
+[![LinkedIn](https://img.shields.io/badge/moraiscode-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/moraiscode)
+[![Instagram](https://img.shields.io/badge/@moraiscode-833AB4?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/moraiscode)
+[![Email](https://img.shields.io/badge/contato-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contato.felipeamorim@gmail.com)
 
 📍 Brasília - DF, Brasil · 🏢 BRAZCODE
 
@@ -19,37 +22,44 @@
 
 ## >_ Sobre mim
 
-Entusiasta das melhores tecnologias para desenvolvimento **web e mobile**.
+Desenvolvedor Full Stack atuando na construção de soluções tecnológicas para o serviço público federal e autarquias (CFN, CRP1, EBC). Experiência sólida em desenvolvimento web, sistemas de gestão, automação de processos e infraestrutura de servidores.
 
-Apaixonado por tecnologia, **serviço público** e por gerar impacto real por meio da inovação. Busco constantemente aprimorar sistemas, otimizar processos e entregar soluções que façam a diferença na vida das pessoas.
+Foco em código limpo, arquitetura escalável e impacto real nas organizações onde atuo.
+
+---
 
 ## >_ O que eu faço
 
-| Área | Descrição |
-|------|-----------|
-| 🏛️ **Gestão pública** | Sistemas para conselhos e órgãos (CFN · CRP1 · EBC) |
-| 📊 **Gestão empresarial** | CRMs, gestão de leads e de prestação de serviços |
-| ⚡ **Automação & integrações** | n8n, scraping, webhooks e integração de APIs |
-| 🌐 **Web & mobile** | Aplicações full stack, do back-end ao front-end |
-| 🖥️ **Infraestrutura** | Docker, Linux e servidores self-hosted |
+| Área | Foco |
+|:---|:---|
+| 🏛️ **Gestão pública** | Sistemas para conselhos e órgãos federais (CFN · CRP1 · EBC) |
+| 📊 **Gestão empresarial** | CRMs, automação de fluxos e portais de atendimento |
+| ⚡ **Automação & dados** | n8n, scraping, APIs REST, integrações e webhooks |
+| 🌐 **Aplicações Web** | Soluções full stack robustas, responsivas e de alta performance |
+| 🖥️ **Infraestrutura & DevOps** | Linux, Docker, CI/CD, proxy reverso e ambientes self-hosted |
+
+---
 
 ## >_ Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
 
 <div align="center">
 
-### _"A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original."_
-
-**— Albert Einstein**
+© 2026 Felipe Morais · [moraiscode.com](https://moraiscode.com)
 
 </div>
